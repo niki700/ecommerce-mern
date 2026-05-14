@@ -97,4 +97,4 @@ npm run dev
 5. Logout and login again
 
 ## 👩‍💻 Built By
-Nikita — MERN Stack Internship Project
+Nikita — MERN Stack 
