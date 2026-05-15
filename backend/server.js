@@ -17,7 +17,7 @@ app.use(cors(
     {
         origin: [
             'http://localhost:5173',
-            'https://ecommerce-frontend.vercel.app'
+            'https://ecommerce-mern-nu-three.vercel.app'
         ],
         credentials: true,
     }
